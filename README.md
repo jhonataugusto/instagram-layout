@@ -1,2 +1,4 @@
 # InstagramLayout
-projeto de layout do Instagram feito com HTML e CSS
+
+Projeto simples recriando o layout do Instagram.
+Desenvolvido com as tecnologias HTML e CSS.
